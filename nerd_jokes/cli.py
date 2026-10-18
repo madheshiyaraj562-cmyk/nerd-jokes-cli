@@ -104,13 +104,15 @@ def emoji_rain(duration_sec: float = 2.5):
             sys.stdout.flush()
         time.sleep(0.08)
 
-    print("\nThanks for laughing! Bye!\n")
+    print("\nThanks for laughing! Bye!")
+    print("Made by Raj Madheshiya@2026\n")
 
 
 def main():
     _ensure_utf8_stdout()
 
     print("\nNerd Jokes CLI")
+    print("Made by Raj Madheshiya@2026")
     print("Press Enter for a joke, or type 'q' to quit.\n")
 
     # Keep a pool to avoid repeating jokes until all have been seen

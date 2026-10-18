@@ -7,7 +7,7 @@ A minimal command-line program in Python that tells random programmer/computer n
 ### From GitHub
 Anyone can install directly from your GitHub repository using `pip`:
 ```bash
-pip install git+https://github.com/<your-username>/nerd-jokes-cli.git
+pip install git+https://github.com/madheshiyaraj562-cmyk/nerd-jokes-cli.git
 ```
 
 ### From PyPI (once published)
@@ -32,6 +32,11 @@ nerd-jokes
 - Press **Enter** to see the setup and reveal the punchline.
 - Type **`q`** or press **Ctrl+C** to quit and enjoy the laughing emoji rain!
 
+## Author
+
+Made by **Raj Madheshiya@2026**
+
 ## License
 
 MIT License
+
