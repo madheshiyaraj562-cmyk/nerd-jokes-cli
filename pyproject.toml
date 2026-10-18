@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nerd-jokes-cli"
+version = "0.1.0"
+description = "A minimal command-line nerd joke teller with emoji rain on exit."
+readme = "README.md"
+authors = [
+  { name = "Developer" }
+]
+license = { text = "MIT" }
+requires-python = ">=3.8"
+keywords = ["jokes", "cli", "nerd", "programmer", "humor"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Environment :: Console",
+]
+
+[project.scripts]
+nerd-jokes = "nerd_jokes.cli:main"
