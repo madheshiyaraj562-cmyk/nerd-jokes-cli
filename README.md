@@ -1,10 +1,10 @@
-# Nerd Jokes CLI 🤓
+# Nerd Jokes CLI 
 
 A minimal command-line program in Python that tells random programmer/computer nerd jokes, one at a time, and ends with a laughing emoji rain animation when you quit.
 
 ---
 
-## ⚡ Don't have Python installed? (Install in 30 seconds)
+## Don't have Python installed? (Install in 30 seconds)
 
 If you don't have Python on Windows, open **PowerShell** and run:
 
